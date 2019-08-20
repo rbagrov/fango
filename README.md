@@ -1,2 +1,2 @@
 # fango
-Fan monitoring tool
+Temperature monitoring tool

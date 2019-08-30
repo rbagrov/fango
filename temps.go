@@ -107,6 +107,6 @@ func main() {
 	if len(*monitor) < 9 {
 		LocalMonitor()
 	} else {
-		fmt.Println("Not implemented")
+		fmt.Println("Not implemented!")
 	}
 }
